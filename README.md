@@ -26,6 +26,7 @@ Built for India’s UPI-first generation.
 
 [https://expo.dev/accounts/sejalr_12/projects/flowsense/builds/b68fffbf-0ff5-46a2-acc1-f96ac09a6edf
 ](https://expo.dev/artifacts/eas/oxwDYmqPz87jQYpn7B2eM2.apk)
+Scan to install — Android only
 
 ## Built With AI Tools
 
