@@ -1,5 +1,5 @@
 {
-  "name": "bolt-expo-starter",
+  "name": "flowsense",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "private": true,
@@ -44,11 +44,19 @@
     "react-native-web": "^0.21.0",
     "react-native-webview": "13.15.0",
     "react-native-worklets": "*"
-  }
+  },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~19.1.10",
     "babel-plugin-module-resolver": "^5.0.3",
     "typescript": "~5.9.2"
+  },
+  "expo": {
+    "install": {
+      "exclude": [
+        "expo-sharing",
+        "@react-native-async-storage/async-storage"
+      ]
+    }
   }
 }
