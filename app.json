@@ -9,12 +9,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "android": {
-      "package": "com.flowsense.app",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#0F6E56"
-      }
-    },
+  "package": "com.flowsense.app"
+},
     "ios": {
       "supportsTablet": true
     },
