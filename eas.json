@@ -4,20 +4,14 @@
     "appVersionSource": "remote"
   },
   "build": {
-    "Preview": {
+    "preview": {
       "android": {
         "buildType": "apk"
-      },
-      "environment": {
-        "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
       }
     },
     "Preview": {
       "android": {
         "buildType": "apk"
-      },
-      "environment": {
-        "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
       }
     },
     "production": {
